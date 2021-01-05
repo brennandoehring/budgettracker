@@ -25,5 +25,5 @@
   ## Questions
   If you have any questions please contact me at nannerbdale@gmail.com. My github profile username is brennandoehring.
 
-  ## Screenshots
-  
+  ## Screenshot
+  <img src = "/assets/images/screenshot.png">
